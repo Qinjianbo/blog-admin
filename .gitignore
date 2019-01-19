@@ -1,0 +1,8 @@
+.DS_Store
+phpunit.phar
+/vendor
+composer.phar
+*.project
+.idea/
+.php_cs.cache
+.vscode/
